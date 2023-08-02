@@ -1,0 +1,71 @@
+Prof Morrill's Guide to Speedrunning Email
+
+Everyone spends too long reading and writing email. Here are some techniques that will save you a lot of time. As a bonus, when your professor spends less time figuring out who you are and what you want, they will have more time to help you!
+
+SAMPLE EMAIL
+
+----
+
+Dear Prof Morrill,
+
+This is Tamsyn from your 10:00 Calculus lecture. I think there's an error in the Moodle gradebook. My score for Quiz 3 is a 7, when I got an 8 on my paper.
+
+Can you please update my score for Quiz 3?
+
+Thank you,
+Tammy
+
+----
+
+ANALYSIS
+
+Start with a salutation.
+* When starting an email conversation, use a greeting with your professor's title and last name. Also use a salutation when responding to an email from your professor.
+* Good options for a greeting:
+ - "Dear" - All-purpose, very formal.
+ - "Hello" - All-purpose, less formal.
+ - "Good Morning" - You are writing the email before noon.
+ - "Good Afternoon" - You are writing the email after noon.
+* If you still aren't sure how to greet your professor, pay attention to which greeting your professor uses when they email you and use that one.
+* Common Pitfalls
+ - "Hi" is too informal for some professors.
+ - Don't use "Good Evening". Use "Good Morning" so it does not sound like you expect a response right the same night. Even better, just send the email the next morning.
+ 
+After the salutation, start a new paragraph. Your first paragraph gives the reader context for the message. Write in complete sentences. Be sure to include:
+* Your name
+* Which class you are enrolled in and what time it meets.
+* Explain why you are emailing in a few sentences.
+ - Try to be non-judgemental, even if it is the professor's fault.
+* Common Pitfalls:
+ - Don't say something like "This is Tamsyn from your MTRF Calculus". Professors often have multiple sections of the same topic which run on the exact same days.
+
+Most emails can be communicated in a single paragraph. You may use additional paragraphs as needed, but try not to write a whole essay.
+* "The first rule of style is to have something to say. The second rule of style is to control yourself when, by chance, you have two things to say; say first one, then the other, not both at the same time." ― George Polya
+
+If you need your professor to do something, phrase it as a question, and put it on its own line.
+* This makes it very easy for your professor to understand what you want them to do after a single glance.
+* It is a good idea to include the details of your request, even if it means repeating yourself.
+* Remember to say "please".
+
+Sign Your Email
+* Use a closing line. Good options include:
+ - "Thank you" - You are asking for the professor to do something.
+ - "Cheers" - You are in a good mood.
+ - "Best" - All-purpose
+
+Ettiquete
+* Never email your professor outside of business hours.
+ - If you are in an emergency situation, do not make a plan which requires your professor to read your message outside of business hours.
+ - No one becomes a professor because they like to read email. They read email because it is a part of their job.
+ - Most email clients have a feature to queue a message and send it the next day. Learn how it works and use it. Or just write your message the next morning instead.
+* Always send an email as soon as you think you have a problem. A frivoulous email now is always better than a desperate email next week.
+* It is good professional ettiquette to respond to an email within 24 hours. You never know what time of day your professor will be busy.
+ - Never make a plan which requires your professor to read your message as soon as you send it.
+ - Never make a plan which requires your professor to read your message during one of their lectures.
+* Never treat email like groupchat or texting. You are communicating to someone who has institutional authority over you.
+* Always write an email that your professor can easily read when they are not at 100% mental capacity. You never know when they are distracted, busy, or having a bad day.
+ - Always write in complete sentences, with proper capitalization, punctuation, and spelling.
+ - Always write briefly--but politely!
+* Ettiquette is about reciprocity.
+ - Your professor should be using all the guidelines listed above when they email you. That way, you won't have to waste time figuring out what your professor wants you to do, either!
+ - Pay attention to how your professor signs their email. This will tell you whether you are allowed to use their first name.
